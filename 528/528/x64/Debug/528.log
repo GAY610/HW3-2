@@ -1,0 +1,3 @@
+﻿  528.cpp
+C:\Users\USER\source\repos\528\528\528.cpp(35,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  528.vcxproj -> C:\Users\USER\source\repos\528\x64\Debug\528.exe
